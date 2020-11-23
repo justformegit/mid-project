@@ -1,0 +1,94 @@
+.transition-fade {
+  transition: .4s;
+  opacity: 1;
+}
+
+html.is-animating .transition-fade {
+  opacity: 0;
+}
+p{
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+#menu{
+	margin-top: 30px; 
+}
+#sdu_logo{
+
+}
+.column{
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
+.row{
+	display: flex;
+	flex-direction: row;
+}
+#title_div{
+	background-color: white;
+	padding: 15px;
+	border-radius: 5px;
+}
+#title{
+	color: #00B3DF;
+	font-size: 24px;
+	text-align: center;
+}
+#second{
+	position: relative;
+	left: 40px;
+	top: 15px;
+}
+#guide{
+	background-color: #00B3DF;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	border-radius: 5px;
+	margin-top: 10px;
+	text-decoration: none;
+	color: white; 
+	align-content: center;
+}
+#download_ico{
+	width: 4.5%;
+	position: relative;
+	top: 2px;
+}
+
+#stud_photo{
+	border-style: solid;
+	border-color: #5cb0e424;
+	border-width: 5px;
+	border-radius: 10px;
+	height: 150px;
+	width: auto;
+}
+#title_guide{
+	margin-left: 20px;
+	width: 100%;
+	max-width: 400px;
+	margin-top: 15px;
+
+}
+#about_stud{
+	width: auto;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	text-align: left;
+	background: #00b3df21;
+	color: #000000cf; 
+	font-weight: ;
+	border-radius: 8px;
+	margin-left: 20px;	
+
+}
+td {
+	border-radius: 8px;
+	background: #5cb0e424;
+	padding: 10px;
+}
+#balance{
+	background: #f5030324;
+}

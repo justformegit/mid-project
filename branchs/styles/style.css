@@ -1,0 +1,91 @@
+#attendance{
+
+}
+.mini_ico{
+	width: 15px;
+}
+#shot_info{
+	margin-left: 20px;
+}
+.scale{
+	padding: 1px;
+	border-radius: 5px;
+	background-color: #ffffff78;
+	height: 10px;
+	display: flex;
+	flex-wrap: nowrap;
+}
+.absence_scale{
+	padding: 0;
+	border-radius: 5px;
+	height: 10px;
+}
+.limit{
+	position: relative; 
+	top: -3px;
+	left: 50%;
+	background-color: red;
+	height: 17px;
+	width: 2px;
+	border-radius: 100px;
+}
+#web{
+	width: 0%;
+}
+#algo{
+	width: 53%;
+	background-color: #ff1212b8;
+
+}
+#electronic{
+	width: 15%;
+	background-color: #ffc112b8;
+}
+td{
+	text-align: center;
+}
+.percent{
+	margin-top: 3px;
+	font-size: 14px;
+}
+.coming_soon{
+	background-color: #f5030324;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #5cb0e424;
+}
+.coming_soon p{
+	font-size: 40px;
+}
+#schedule{
+	width: auto;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	text-align: left;
+	color: #000000cf; 
+	font-weight: ;
+	border-radius: 8px;
+	margin-top: 10px;
+}
+#schedule td {
+	border-radius: 8px;
+	background: #5cb0e424;
+	padding: 10px;
+	font-size: 12px;
+}
+#schedule th {
+	border-radius: 8px;
+	background: #2751f538;
+	padding: 10px;
+}
+#sorry{
+	font-size: 25px;
+	background-color: #e45c5c82;
+	padding: 15px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color:#5cb0e424;
+	max-width: 50%
+}
